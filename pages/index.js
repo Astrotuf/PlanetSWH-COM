@@ -28,10 +28,10 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Nextly - Free Nextjs & TailwindCSS Landing Page Template</title>
+        <title>PlanetSWH - Family friendly planet discovery game.</title>
         <meta
           name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
+          content="Family friendly planet discovery P2E game."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -39,32 +39,27 @@ export default function Home() {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
+        pretitle="Community & Economy"
         title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        All art assets and Astro species genetic data can be easily accessed by 3rd parties, allowing community developers to build their own tools and experiences in the Infinity universe
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don't forget to add one. Just like this.
+        pretitle="Gameplay Demo"
+        title="Infinity Planets">
+        The Planetsomewhere universe is always expanding through new games and experiences. Many of these experiences will allow players to compete with each other using simple or complex strategies and tactics to attain top rankings or be rewarded with coveted resources. Others will have them complete quests, defeat bosses, 
+        and unlock in-depth storylines
       </SectionTitle>
       <Video />
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        pretitle="Founder"
+        title="Mission">
+        When we started this journey 4 years we weren't sure where we'd end up but we believed that if we asked the right questions we could build something with you that had never been seen before
       </SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
+      
       </SectionTitle>
       <Faq />
       <Cta />

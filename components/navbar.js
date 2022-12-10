@@ -4,11 +4,7 @@ import { Disclosure } from "@headlessui/react";
 
 export default function Navbar() {
   const navigation = [
-    "Product",
-    "Features",
-    "Pricing",
-    "Company",
-    "Blog",
+   
   ];
 
   return (
@@ -30,7 +26,7 @@ export default function Navbar() {
                         className="w-8"
                       />
                     </span>
-                    <span>Nextly</span>
+                    <span>planetsomewhere</span>
                   </a>
                 </Link>
 
@@ -68,7 +64,7 @@ export default function Navbar() {
                     ))}
                     <Link href="/">
                       <a className="w-full px-6 py-2 mt-3 text-center text-white bg-indigo-600 rounded-md lg:ml-5">
-                        Get Started
+                        Whitepaper
                       </a>
                     </Link>
                   </>
@@ -96,7 +92,7 @@ export default function Navbar() {
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
           <Link href="/">
             <a className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5">
-              Get Started
+              Whitepaper
             </a>
           </Link>
 

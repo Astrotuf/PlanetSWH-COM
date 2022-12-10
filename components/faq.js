@@ -35,21 +35,21 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "Will Planet Somewhere be free to play?",
+    answer: "Yes, When you first start in the game, you have access to 5 minerals. To unlock more you will need to clear in-game missions!",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "Upcoming Features?",
+    answer: "Planetsomewhere is still at an early stage and as always, we will build this experience alongside our community.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "Portal Gate Token (PGT)",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Portal Gate Token (PGT) are an ERC-20 governance token for the PSWH Universe. PGT holders will be able to claim rewards if they stake their tokens, play the game, and participate in key governance votes. Players will also be able to earn $PGT when they play various games within the Infinity Universe and through user-generated content initiatives.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: "Do you offer technical support for Swap & Bridge? ",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "No, we don't offer technical support Swap & Bridge. Please contact LI.FI support in Discord.",
   },
 ];

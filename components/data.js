@@ -11,13 +11,13 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Small mini-games",
+  desc: "We believe planetsomewhere can be a powerful medium for attracting developers to blockchain technology and as a potential launchpad for Indie developers",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Upcoming Features",
+      desc: "Ability to mint certain craftable objects as NFTs for whitelisted users.",
       icon: <EmojiHappyIcon />,
     },
     {
@@ -34,24 +34,24 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Economic Sustainability",
+  desc: "Long-term the economy will be sustained by adding.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
-      icon: <DeviceMobileIcon />,
+      title: "Additional valuable utility",
+      desc: "Players will constantly have new goals to reach within the multiverse. Ultimately, the demand for Astrotufs will come from the intrinsic value they can provide to players in the form of competitive, social, and progression based fun and achievements.",
+  
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
-      icon: <AdjustmentsIcon />,
+      title: "Purely horizontal progression.",
+      desc: "Currently in order to progress the main path to progress in Battle is by expanding the size of one’s collection by completing tasks.",
+   
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
-      icon: <SunIcon />,
+      title: "Physical / digital merchandise.",
+      desc: "This is already a frequent request from dedicated players who would like more physical and/or digital merchandise to be able to express and show-off their attachment to the game.",
+     
     },
   ],
 };
