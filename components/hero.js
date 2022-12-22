@@ -50,12 +50,14 @@ export default function Hero() {
               src={heroImg}
               width="616"
               height="617"
+
               alt="Hero Illustration"
               layout="intrinsic"
               loading="eager"
               placeholder="blur"
             />
           </div>
+          
         </div>
       </Container>
       <Container>

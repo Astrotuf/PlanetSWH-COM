@@ -21,8 +21,8 @@ export default function Footer() {
                     <img
                       src="/img/logoo.png"
                       alt="N"
-                      width="30%"
-                      className="w-8"
+                      width="70%"
+                      className="logo"
                     />
                   </span>
                 </a>
@@ -30,7 +30,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-            Planetsomewhere is a space exploration game that rewards players for the time and effort they spend both playing the game and growing the universe.
+            Over 4 000 exoplanets have been discovered outside our solar system, most of which are between one and two times as big as Earth. An EU initiative has set out to gain a better understanding of these so-called super-Earths to determine whether they can host life.
             </div>
 
             <div className="mt-5">
