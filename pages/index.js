@@ -40,8 +40,8 @@ export default function Home() {
       <Hero />
       <SectionTitle
         pretitle="Community & Economy"
-        title=" Why should you use this landing page">
-        All art assets and Astro species genetic data can be easily accessed by 3rd parties, allowing community developers to build their own tools and experiences in the Infinity universe
+        title="Water – a key ingredient for life beyond Earth">
+     That means we expect to be able to identify and analyse dozens of exo-Earths, and by characterising their atmospheres, we will be able to identify those that are potentially habitable while unleashing your creativity and productivity.
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />

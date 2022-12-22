@@ -35,17 +35,17 @@ export default function Faq() {
 
 const faqdata = [
   {
-    question: "Will Planet Somewhere be free to play?",
-    answer: "Yes, When you first start in the game, you have access to 5 minerals. To unlock more you will need to clear in-game missions!",
+    question: "Planet Somewhere open to all?",
+    answer: "Yes, When you first start building your metaverse on a stimulated planet, you have access to minerals such as oxygen, silicon, magnesium, iron and nickel, . To unlock more you will need to clear challenges!",
   },
   {
     question: "Upcoming Features?",
     answer: "Planetsomewhere is still at an early stage and as always, we will build this experience alongside our community.",
   },
   {
-    question: "Portal Gate Token (PGT)",
+    question: "Somewhere Shuttle Token(SST)",
     answer:
-      "Portal Gate Token (PGT) are an ERC-20 governance token for the PSWH Universe. PGT holders will be able to claim rewards if they stake their tokens, play the game, and participate in key governance votes. Players will also be able to earn $PGT when they play various games within the Infinity Universe and through user-generated content initiatives.",
+      "SST are an ERC-20 polygon governance token for the PlansetSWH Universe. SST holders will be able to claim rewards if they stake their tokens, lend, and participate in key governance votes. Players will also be able to earn $SST when they interact with various planets within the  Universe and through user-generated content initiatives.",
   },
   {
     question: "Do you offer technical support for Swap & Bridge? ",

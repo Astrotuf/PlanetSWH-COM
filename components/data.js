@@ -17,17 +17,17 @@ const benefitOne = {
   bullets: [
     {
       title: "Upcoming Features",
-      desc: "Ability to mint certain craftable objects as NFTs for whitelisted users.",
+      desc: "Ability to mint certain planetary features as NFTs for whitelisted users.",
       icon: <EmojiHappyIcon />,
     },
     {
       title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      desc: "In this region around a star, a planet can have surface temperatures consistent with the presence of liquid water. The prime factor determining the planet temperature is its distance from the host star.",
       icon: <ChartSquareBarIcon />,
     },
     {
       title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      desc: "Virtual Stimulations are a great tool to understand these planetary objects that we can’t explore directly – yet.",
       icon: <CursorClickIcon />,
     },
   ],
@@ -50,7 +50,7 @@ const benefitTwo = {
     },
     {
       title: "Physical / digital merchandise.",
-      desc: "This is already a frequent request from dedicated players who would like more physical and/or digital merchandise to be able to express and show-off their attachment to the game.",
+      desc: "This is already a frequent request from dedicated users who would like more physical and/or digital merchandise to be able to express and show-off their attachment to the platform.",
      
     },
   ],
