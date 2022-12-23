@@ -2,14 +2,14 @@ import Image from "next/image";
 import React from "react";
 import Container from "./container";
 
-import userOneImg from "../public/img/man1.png";
+
 import userTwoImg from "../public/img/woman.png";
-import userThreeImg from "../public/img/man.jpg";
+import userThreeImg from "../public/img/man1.png";
 
 export default function Testimonials() {
   return (
     <Container>
-      <div className="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
+      <div className="grid gap-10 justify-center lg:grid-cols-2 xl:grid-cols-3">
         
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
@@ -20,7 +20,7 @@ I love it.
 
             <Avatar
               image={userTwoImg}
-              name="Stella"
+              name="Bella"
               title="Co-Founder at PlanetSWH"
             />
           </div>
