@@ -20,7 +20,7 @@ export default function Hero() {
                 href="/"
                 target="_blank"
                 rel="noopener"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
+                className="px-8 py-4 text-lg font-medium text-center text-white bg-green-600 rounded-md ">
                 Metaverse
               </a>
               <a
@@ -63,7 +63,7 @@ export default function Hero() {
       <Container>
         <div className="flex flex-col justify-center">
           <div className="text-xl text-center text-gray-700 dark:text-white">
-            A growing community of <span className="text-indigo-600">3000+</span>{" "}
+            A growing community of <span className="text-green-600">3000+</span>{" "}
             users worldwide. 
           </div>
         </div>
