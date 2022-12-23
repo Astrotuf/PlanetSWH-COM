@@ -48,14 +48,14 @@ export default function Home() {
       <SectionTitle
         pretitle="Gameplay Demo"
         title="Infinity Planets">
-        The Planetsomewhere universe is always expanding through new games and experiences. Many of these experiences will allow players to compete with each other using simple or complex strategies and tactics to attain top rankings or be rewarded with coveted resources. Others will have them complete quests, defeat bosses, 
+        We are currently working with modelers to implement the results of the calculations in our models. In doing so, we will be able to use determine the key parameters in characterizing these exoplanets and finding the right conditions for habitability. 
         and unlock in-depth storylines
       </SectionTitle>
       <Video />
       <SectionTitle
         pretitle="Founder"
         title="Mission">
-        When we started this journey 4 years we weren't sure where we'd end up but we believed that if we asked the right questions we could build something with you that had never been seen before
+        When we started this journey 4 years we weren't sure where we'd end up but we believed that if we asked the right questions we could build something with you that had never been seen before.
       </SectionTitle>
       <Testimonials />
       <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">

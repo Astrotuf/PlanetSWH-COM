@@ -19,12 +19,16 @@ export default function Navbar() {
                   <a className="flex items-center space-x-2 text-2xl font-medium text-green-500 dark:text-gray-100">
                     <span>
                       <img
-                        src="/img/logoo.png"
-                        alt="N"
-                        height="70%"
+                        src="/img/planetswh.png"
+                        alt="logo"
+                        height="200px"
+                        width="200px"
                         className="logo"
+                        objectfit= "contain"
+                        
                       />
                     </span>
+                  
 
 
                   </a>
@@ -64,7 +68,7 @@ export default function Navbar() {
                     ))}
                     <Link href="http://planetsomewhere.xyz">
                       <a className="w-full px-6 py-2 mt-3 text-center text-white bg-green-600 rounded-md lg:ml-5">
-                        Swap & Bridge
+                      Metaverse(coming soon)
                       </a>
                     </Link>
                   </>
@@ -92,7 +96,7 @@ export default function Navbar() {
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
           <Link href="https://planetsomehwere.xyz">
             <a className="px-6 py-2 text-white bg-green-600 rounded-md md:ml-5">
-              Swap & Bridge
+              Metaverse(coming soon)
 
 
 

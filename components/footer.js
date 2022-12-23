@@ -30,7 +30,7 @@ export default function Footer() {
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-            Over 4 000 exoplanets have been discovered outside our solar system, most of which are between one and two times as big as Earth. An EU initiative has set out to gain a better understanding of these so-called super-Earths to determine whether they can host life.
+            Over 4% of habitable exoplanets have been discovered outside our solar system, which are between one and two times as big as Earth.<br/><br/> Using blockchain scalability, deep learning and AI to a gain a better understanding of these super-earths to determine if they can host life while having fun at it.
             </div>
 
             <div className="mt-5">
