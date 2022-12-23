@@ -28,12 +28,35 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>PlanetSWH - Family friendly planet discovery game.</title>
-        <meta
-          name="description"
-          content="Family friendly planet discovery P2E game."
-        />
-        <link rel="icon" href="/favicon.ico" />
+        <title>PlanetSWH - VR Integrated Planetary Metaverse.</title>
+
+       
+        <link rel="icon" href="./img/favicon.ico" />
+        <meta name="description" content="We're building a world where money is liquid and decentralized, where our future is more automated and scalable than anything we can imagine today, and where every person has access to their own Metaverse." class="metadata" />
+        <link rel="apple-touch-icon" href="./img/icon192.png" />
+        <meta property="og:type" content="website" class="metadata" />
+        <meta property="og:site_name" content="PlanetSWH" class="metadata" />
+        <meta property="og:title" content="planetsomewhere.com" class="metadata" />
+        <meta property="og:description"
+      content="We're building a world where money is liquid and decentralized, where our future is more automated and scalable than anything we can imagine today, and where every person has access to their own Metaverse."
+      class="metadata" />
+
+    <meta property="og:image" content="https://planetsomewhere.com/preview.png" class="metadata" />
+    <meta property="og:image:url" content="https://planetsomewhere.com/img/preview.png " class="metadata" />
+    <meta property="og:image:secure_url" content="https://planetsomewhere.com/img/preview.png " class="metadata" />
+    <meta property="og:image:width" content="900" class="metadata" />
+    <meta property="og:image:height" content="450" class="metadata" />
+
+    <meta name="twitter:card" content="summary_large_image" class="metadata" />
+    <meta name="twitter:site" content="@planet_swh" class="metadata" />
+    <meta name="twitter:title" content="planetsomewhere.com" class="metadata" />
+    <meta
+      name="twitter:description"
+      content="We're building a world where money is liquid and decentralized, where our future is more automated and scalable than anything we can imagine today, and where every person has access to their own Metaverse."
+      class="metadata" />
+    <meta name="twitter:image" content="https://planetsomewhere.com/img/preview.png " class="metadata" />
+
+    
       </Head>
 
       <Navbar />
@@ -48,7 +71,7 @@ export default function Home() {
       <SectionTitle
         pretitle="Gameplay Demo"
         title="Infinity Planets">
-        We are currently working with modelers to implement the results of the calculations in our models. In doing so, we will be able to use determine the key parameters in characterizing these exoplanets and finding the right conditions for habitability. 
+        We are currently working with modelers to implement the results of the calculations in the models. In doing so, we will be able to use determine the key parameters in characterizing these exoplanets and finding the right conditions for habitability. 
         and unlock in-depth storylines
       </SectionTitle>
       <Video />
