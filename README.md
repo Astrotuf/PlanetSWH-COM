@@ -12,7 +12,7 @@ coverY: 0
 ReFi – movement emerged early in 2022 and has since grown from a largely conceptual existence to infrastructural maturity, primed for increased access and adoption in 2023.
 {% endhint %}
 
-#### The Problem: The Issue The invisible hand works to produce wealth in our capitalist system, and individual self-interest rules.&#x20;
+#### The Issue: The invisible hand works to produce wealth in our capitalist system, and individual self-interest rules.&#x20;
 
 The freedom to produce and consume as we see appropriate creates value for the economy, allowing the entire society to succeed. We generally believe that the market is reasonable and that everything is valued perfectly.&#x20;
 
