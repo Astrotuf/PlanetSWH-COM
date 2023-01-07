@@ -1,16 +1,3 @@
----
-description: The Regenerative Finance From DEFI to REFI
-cover: .gitbook/assets/placeholder.png
-coverY: 0
----
-
-# 👋 Welcome
-
-
-
-{% hint style="info" %}
-ReFi – movement emerged early in 2022 and has since grown from a largely conceptual existence to infrastructural maturity, primed for increased access and adoption in 2023.
-{% endhint %}
 
 #### The Issue: The invisible hand works to produce wealth in our capitalist system, and individual self-interest rules.&#x20;
 
