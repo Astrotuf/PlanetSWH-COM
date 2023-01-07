@@ -1,0 +1,3 @@
+# 📃 Disclaimer
+
+The information in this blog post about Planetsomewhere (“PlanetSWH”) or  KlimaDAO ("KlimaDAO"), its crypto-assets, business assets, strategy, and operations is provided for general informational purposes only and is not a formal offer to sell or a solicitation of an offer to buy any securities, options, futures, or other derivatives related to securities in any jurisdiction, and its content is not mandated by securities laws. This  article should not be construed as advice to buy, sell, or hold such securities, or as an offer to sell such securities. This  article does not consider, nor does it provide, any tax, legal, or investment advice or opinion regarding any person's individual investing objectives or financial situation.
